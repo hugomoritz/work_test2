@@ -1,0 +1,4 @@
+.truncate {
+  max-height: 25ch;
+  white-space: normal !important;
+}
